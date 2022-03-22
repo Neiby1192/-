@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@font-face {
     font-family: "noto-cjk-jp";
     src: url("fonts/SourceHanSansJP-VF.otf.woff2") format("woff2"), url("fonts/SourceHanSansJP-VF.otf") format("opentype");
     font-weight: 100 1000;
